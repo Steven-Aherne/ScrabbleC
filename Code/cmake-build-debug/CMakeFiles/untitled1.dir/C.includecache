@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Steven/OneDrive/Course Work/Year 2/Semester 2/C Programming/Scrabble/Code/scrabble.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
